@@ -1,0 +1,23 @@
+{
+  "name": "securitywnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tnminh@github.com/tnminh/SecurityWNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnminh/SecurityWNode/issues"
+  },
+  "homepage": "https://github.com/tnminh/SecurityWNode#readme",
+  "dependencies": {
+    "keypair": "^1.0.1",
+    "node-forge": "file:node-forge"
+  }
+}
