@@ -1,1 +1,1 @@
-{"email":"minh@gmail.com","name":"minh","birthday":"1995-08-27","phone":"123456","adr":"ho chi minh"}
+{"email":"trannhatminh_professional@yahoo.com.vn","name":"MInh","birthday":"7/4/2018","phone":"123","adr":"123","password":{"salt":"Bx0l1i861I","hash":"9209cc708b1b922edae5d828890beea2"}}
